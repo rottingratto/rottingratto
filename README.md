@@ -1,4 +1,6 @@
-<meta property="og:image" content="[http://euro-travel-example.com/thumbnail.jpg](https://raw.githubusercontent.com/rottingratto/background-/refs/heads/main/killua.png?token=GHSAT0AAAAAADGQDSPNEJXKIGD7KQOITDJE2DIFWRA)"> 
+
+ ![killua](https://github.com/user-attachments/assets/d6b9b2dc-9afd-4b76-af00-1d1706eabab3)
+
 <h1 align="center">Hi 👋, I'm Zod-the-immortal</h1> 
 <h3 align="center">A passionate hacker interested in tool development</h3>
  <h3 https://github.com/rottingratto/background-/blob/main/killua.png?raw=true
