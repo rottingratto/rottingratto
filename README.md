@@ -1,5 +1,4 @@
-<h1 align="center"><img src="[https://user-images.githubusercontent.com/75953873/111233290-7c961d00-85cb-11eb-982b-1cdfb0396225.png](https://raw.githubusercontent.com/rottingratto/background-/refs/heads/main/killua.png"></h1>
-
+<meta property="og:image" content="[http://euro-travel-example.com/thumbnail.jpg](https://raw.githubusercontent.com/rottingratto/background-/refs/heads/main/killua.png?token=GHSAT0AAAAAADGQDSPNEJXKIGD7KQOITDJE2DIFWRA)"> 
 <h1 align="center">Hi 👋, I'm Zod-the-immortal</h1> 
 <h3 align="center">A passionate hacker interested in tool development</h3>
  <h3 https://github.com/rottingratto/background-/blob/main/killua.png?raw=true
