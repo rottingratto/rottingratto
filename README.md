@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Zod-the-immortal</h1> 
 <h3 align="center">A passionate hacker interested in tool development</h3>
-
+ <h3 https://github.com/rottingratto/background-/blob/main/killua.png?raw=true
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rottingratto&label=Profile%20views&color=0e75b6&style=flat" alt="rottingratto" /> </p>
