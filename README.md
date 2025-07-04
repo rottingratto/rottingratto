@@ -20,8 +20,11 @@
 
 - ⚡ Fun fact **i have been hacking for 3 years**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
+ 
+ ![613](https://github.com/user-attachments/assets/c55e49e5-5de7-4892-a6dc-1f0b414204fa)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
